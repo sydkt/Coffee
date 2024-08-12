@@ -1,0 +1,167 @@
+*{
+    margin: 0px;
+}   
+nav{
+    background-color: antiquewhite;
+    justify-content: space-between;
+    align-items: center;
+   /* margin-left: 100px; */
+    display: flex;
+}
+.navbar{
+    display: flex;
+   margin: 21px 10px;
+   list-style: none;
+   color: black;
+    
+}
+.links{
+    display: inline;
+    text-decoration: none;
+    margin: 0px 10px;
+    color: black;
+}
+.logo{
+    height: 74px;
+    width: 96px;
+    margin-left: 20px;
+}
+.cup{
+   padding-right: 650px;
+    font-family: "Grey Qo", cursive;
+    font-size: 45px;
+}
+.coffe{
+    width: 100%;
+    height: 60vh;
+}
+.love{
+    width: 60%;
+    margin: 150px 90px;
+    
+}
+.menu{
+    display: flex;
+    
+}
+.red{
+    margin-top: 10%;
+    margin-right: 30%;
+}
+.lorem1{
+    margin-top: 20px;
+    line-height: 1.3;
+}
+.div2{
+    display: flex;
+    /* justify-content: space-between; */
+    justify-content: space-between;
+   
+}
+.img2{
+   width: 80vh;
+   margin-right: 70px;
+}
+.lorem2{
+    
+    margin-top: 20px;
+    line-height: 1.3;
+}
+.wite{
+    margin-top: 5%;
+    margin: 40px 350px;
+    
+}
+.div3{
+    display: flex;
+    justify-content: space-between;
+   
+}
+.img3{
+    width: 80vh;
+    margin-top: 200px;
+   
+}
+.lorem3{
+    
+    margin-top: 20px;
+    line-height: 1.3;
+}
+.blak{
+    margin-top: 5%;
+    margin: 250px 390px ;
+}
+footer{
+    text-align: center;
+    background-color: antiquewhite;
+    align-items: center;
+    height: 20%;
+    width: 100%;
+}
+#footfond{
+   padding-top: 10px;
+   padding-bottom: 10px;
+  }
+  #end{
+    color: rgb(48, 48, 86);
+    padding-top: 10px;
+    padding-bottom: 5px;
+   font-size: 15px;
+   margin-top: 20px;
+  
+  }
+/* }
+.div2{
+    display: flex;
+    justify-content: space-between;
+}
+.pink{
+    width: 30%;
+    margin: 150px 90px;
+}
+.wite{
+    margin-top: 10%;
+    margin-left: 20%;
+}
+.lorem2{
+    margin-top: 20px;
+    line-height: 1.3;
+} */
+/* .pink{
+    width: 50%;
+    margin: 10px 400px;
+}
+.div2{
+    display: flex;
+    
+      
+}
+.wite{
+    
+   margin-bottom: 20%;
+   margin-left: 10%; 
+}
+.lorem2{
+    margin-top: 10px;
+    line-height: 1.5;
+    
+    
+
+}
+.div3{
+    display: flex;
+}
+.pkt{
+    width: 60%;
+    margin: 120px 80px; 
+}
+.yellow{
+    margin-top: 10%;
+    margin-right: 30%; 
+}
+.lorem3{
+    margin-top: 20px;
+    line-height: 1.3;
+
+}
+  */
